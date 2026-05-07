@@ -1,4 +1,4 @@
-# CG2271 Final Project - IoT RTOS Shipment Monitor
+# BlackBox - IoT RTOS Shipment Monitor
 
 ## Overview
 This project is an IoT-based smart shipment monitoring system built using FreeRTOS. It utilizes a dual-microcontroller architecture with an NXP MCXC444 MCU handling real-time hardware interrupts and physical indicators, and an ESP32 handling environmental sensors, geolocation, and cloud synchronization via Firebase Realtime Database. A Django web backend acts as a dashboard for tracking shipment metrics and configuring run thresholds.
